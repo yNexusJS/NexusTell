@@ -1,0 +1,10 @@
+name: NexusTell
+version: 2.0.0
+main: br.com.nexus.plugin.Main
+author: Nexus
+depends:
+  - NexusCore
+  - NexusAmigos
+commands:
+  tell:
+  r:
